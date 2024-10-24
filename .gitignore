@@ -54,3 +54,6 @@ Output_Statistics/
 # Shell scripts (if you don't want to track installer scripts)
 Miniforge3-MacOSX-arm64.sh
 
+#.nii file
+ivim14b.nii
+
